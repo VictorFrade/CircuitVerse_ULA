@@ -1,4 +1,4 @@
-# Link
+# Link para projeto no CircuitVerse
 https://circuitverse.org/users/328310/projects/circuitos_aula_8-0ef92a78-c6f4-412a-ad0f-ebebc1c09d4b
 # Autores
 Victor Frade e Eduardo Demeneghi - Turma 010 - Fundamentos de Sistemas Computacionais - 2025/2 - PUCRS
