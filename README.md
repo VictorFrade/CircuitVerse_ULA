@@ -4,7 +4,7 @@ https://circuitverse.org/users/328310/projects/circuitos_aula_8-0ef92a78-c6f4-41
 Victor Frade e Eduardo Demeneghi - Turma 010 - Fundamentos de Sistemas Computacionais - 2025/2 - PUCRS
 # CircuitVerse_ULA
 <p>Circuitos feitos com a plataforma CircuitVerse, incluindo uma Unidade Lógica Aritmética.</p>
-## Demultiplexador
+# Demultiplexador
 ![image_alt](https://github.com/VictorFrade/CircuitVerse_ULA/blob/61e66a65c5cfd4e6e874e3cf1f8cc52678395148/Captura%20de%20tela%202025-08-28%20090819.png)
 <p></p>Demultiplexador: uma input e um controle, duas outputs.<br>
 Multiplexador: duas inputs e um controle, uma output.<br>
