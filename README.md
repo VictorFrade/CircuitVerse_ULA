@@ -5,7 +5,7 @@ Victor Frade e Eduardo Demeneghi - Turma 010 - Fundamentos de Sistemas Computaci
 # CircuitVerse_ULA
 <p>Circuitos feitos com a plataforma CircuitVerse, incluindo uma Unidade Lógica Aritmética.</p>
 ## Demultiplexador
-![image_alt](https://github.com/VictorFrade/CircuitVerse_ULA/blob/673b7997a564bcc18e0d8ae3efca2ba24c9271f1/Captura%20de%20tela%202025-08-28%20090819.png)
+![image_alt](https://github.com/VictorFrade/CircuitVerse_ULA/blob/61e66a65c5cfd4e6e874e3cf1f8cc52678395148/Captura%20de%20tela%202025-08-28%20090819.png)
 <p></p>Demultiplexador: uma input e um controle, duas outputs.<br>
 Multiplexador: duas inputs e um controle, uma output.<br>
 Comparador 6 bits: usa XNOR para comparar 6 bits, bit a bit, de dois binários.<br>
